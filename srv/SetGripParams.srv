@@ -1,0 +1,6 @@
+int16 prehold_time
+float32 prepos_delta
+float32 pos_margin
+---
+bool success
+string message
